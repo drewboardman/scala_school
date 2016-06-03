@@ -10,7 +10,7 @@
     - When you declare a function using `def` you need to provide a type signature
     
     ```
-       def addOne(m: Int): Int = m + 1
-       val three = addOne(2)
-       three: Int = 3
+    def addOne(m: Int): Int = m + 1
+    val three = addOne(2)
+    three: Int = 3
     ```
