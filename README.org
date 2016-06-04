@@ -1,0 +1,5 @@
+* Values and Variables
+- values cannot be rebound
+- variables can be declared and re-bound
+~ var name = "steve"
+~ ~name = "marius"~
